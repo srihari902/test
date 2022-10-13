@@ -122,7 +122,7 @@
     "vue-quill-editor": "^3.0.6",
     "vue-style-loader": "^3.0.3",
     "vue-the-mask": "^0.11.1",
-    "vue-upload-component": "2.8.5",
+    "vue-upload-component": "2.8.22",
     "vue-wysiwyg": "^1.7.2",
     "vue-wysiwyg-improved": "^1.7.4",
     "vue2datepicker-latest": "latest",
