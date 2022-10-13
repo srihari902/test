@@ -56,7 +56,7 @@
     "fitbit": "git+http://git-hvx.payoda.com/core/plugins.git#fitbit_dev",
     "fs": "0.0.1-security",
     "forwarded-for": "^1.1.0",
-    "hard-source-webpack-plugin": "^0.6.4",
+    "hard-source-webpack-plugin": "^0.13.1",
     "healthbridge": "git+http://git-hvx.payoda.com/core/plugins.git#healthbridge_dev",
     "healthviewx-config": "git+http://git-hvx.payoda.com/javascript/npm-modules.git#hvxconfig",
     "hvxtwilio": "git+http://git-hvx.payoda.com/core/plugins.git#hvxtwilio_dev",
