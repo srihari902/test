@@ -130,7 +130,7 @@
     "vuebar": "0.0.17",
     "vuedraggable": "^2.14.1",
     "vuejs-datepicker": "^0.9.21",
-    "vuejs-logger": "1.3.4",
+    "vuejs-logger": "1.10.2",
     "vuejs-twilio": "git+http://git-hvx.payoda.com/javascript/npm-modules.git#vuejs-twilio",
     "wellapp": "git+http://git-hvx.payoda.com/core/plugins.git#wellapp_dev",
     "winston": "^2.3.1",
